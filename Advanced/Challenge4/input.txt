@@ -1,0 +1,20 @@
+Names: andrew.mortensen@hmail.com, julia.henderson@hmail.com, timothy.zhang@hmail.com,
+       philip.fredrikkson@hmail.com, steve.james@hmail.com, angela.james@hmail.com,
+       christine.desouza@hmail.com
+
+Regions:
+
+EMEA: Andrew, Julia, Christine
+APAC: Philip, Timothy
+USA: Steve, Angela
+
+Hire dates:
+
+20220908 - Steve
+20180912 - Angela
+20211111 - Christine
+20031311 - Philip
+20090123 - Timothy
+20180422 - Julia
+20020630 - Andrew
+
